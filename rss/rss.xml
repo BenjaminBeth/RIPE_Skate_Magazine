@@ -3,24 +3,21 @@
 
 	<channel>
 
-		<title>Smart Notices</title>
-		<link>https://rawgit.com/mpalliser/news-web/master/index.html</link>
-		<description>Página donde encontraras las notícias de actualidad tecnológica relacionada con los smartphones de moda.</description>
+		<title>Sesiones de engorile, competiciones y mucho más.</title>
+		<link>https://rawgit.com/BenjaminBeth/RIPE_Skate_Magazine/master/index.html</link>
+		<description>Página web dedicada a la revista RIPE Skate Mazagine, puro RIPE.</description>
 		<item>
-			<title>S8, análisis en vídeo</title>
-			<link>https://rawgit.com/mpalliser/news-web/master/notice.html</link>
+			<title>Rafa Vallespir skate Fast & fly High</title>
+			<link>https://rawgit.com/BenjaminBeth/RIPE_Skate_Magazine/master/notice.html</link>
 			<description>
-				¿Es el Samsung Galaxy S8 el mejor móvil del mercado? Respondemos a la gran pregunta del año en nuestro análisis a fondo
-				del nuevo terminal estrella coreano.
+				Rafa Vallespir skate Fast & fly High
 			</description>
 		</item>
 		<item>
-			<title>3 motivos para comprar el nuevo LG G6</title>
-			<link>https://rawgit.com/mpalliser/news-web/master/notice2.html</link>
+			<title>Alberto Martínez Las palabras sobran para estas actitudes.</title>
+			<link>https://rawgit.com/BenjaminBeth/RIPE_Skate_Magazine/master/notice2.html</link>
 			<description>
-				Dos meses más tarde desde su presentación en el MWC 2017, el LG G6 por fin comenzará su comercialización esta misma semana
-				 de forma global. Así lo ha confirmado LG en su blog oficial de noticias, señalando que, tal ha sido la demanda de su nuevo terminal,
-				  que se han visto obligados a anticipar su llegada a la mayor parte de mercados.
+			Al Ripe compadre
 			</description>
 		</item>
 	</channel>
