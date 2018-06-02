@@ -1,0 +1,23 @@
+[
+    {
+    "image": "img/articles/Coro_1.jpg",
+    "title": "Carlos Corominas, team rider de Switchpeople",
+    "body" : "Este chico tiene un buen futuro. No sabes si patina de normal o de switch, y la verdad que sus switchi tricks son bastante heavys. Le preguntamos que hace en su dia a dia, nos contesta: Intento patinar todo lo que puedo y más, el patín es la manera de desconectar de la realidad en la que vivimos.",
+    "data" : "11/05/18",
+    "author" : "Benja Beth"
+    },
+    {
+    "image": "img/articles/Benja_Beth.jpg",
+    "title": "Flako riper con estilo",
+    "body" : "Benjamin Beth, chico con potencia. Le preguntamos que hace en su dia a dia, nos contesta: Ultimamente estoy trabajando y estudiando mucho. No tengo tiempo apenas para patinarla, o para estar con los colegas. Pero con ganas de hacerme una parte muy G, y así poder entrar en el team de Devil, junto a Rafa Vallespir.",
+    "data" : "09/05/18",
+    "author" : "Benja Beth"
+		},
+		{
+		 "image": "img/articles/Aaron_1.jpg",
+		 "title": "Real OG Flexing",
+		 "body" : "Últimamente, el equipo de devil esta ripando bastante por las calles. Su team Rider Aaron, esta preparando una parte jodidamente gangster. Nos comenta que tiene, cosas muy heavys ya grabadas. Quiero conocer un sponsor, y poder viajar sin preocuparme por el material duro.",
+		 "data" : "06/05/18",
+		 "author" : "Benja Beth"
+		 }
+]
